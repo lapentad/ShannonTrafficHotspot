@@ -57,9 +57,10 @@ Participants should have basic familiarity with data analysis, geospatial tools 
 ---
 
 ## Inspiration
-- [UK Department for Transport’s Road Traffic Forecasts](https://www.gov.uk/government/collections/road-traffic-forecasts)
-- [AI for Good: Urban Mobility Challenges](https://aiforgood.itu.int/)
+- [Irish Traffic Data](https://data.tii.ie/)
 - [Open Data Dublin Transport Challenge](https://data.smartdublin.ie/)
+- [Road Traffic Datasets UK](https://roadtraffic.dft.gov.uk/downloads)
+- [AI for Good: Urban Mobility Challenges](https://aiforgood.itu.int/)
 - [ESRI StoryMaps on Sustainable Mobility](https://storymaps.arcgis.com/)
 
 ---
